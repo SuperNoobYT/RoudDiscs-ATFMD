@@ -1,7 +1,7 @@
 {
 	"parent": "minecraft:item/generated",
 	"textures": {
-		"layer0": "all_the_fan_made_discs:items/into_the_jungle"
+		"layer0": "all_the_fan_made_discs:item/into_the_jungle"
 	},
 	
 	"overrides": [

@@ -1,7 +1,7 @@
 {
 	"parent": "minecraft:item/generated",
 	"textures": {
-		"layer0": "all_the_fan_made_discs:item/moonthical"
+		"layer0": "all_the_fan_made_discs:item/brightside"
 	},
 	
 	"overrides": [
@@ -9,7 +9,7 @@
             "predicate": {
                 "round": 1
             },
-            "model": "all_the_fan_made_discs:item/music_disc_moonthical_round"
+            "model": "all_the_fan_made_discs:item/music_disc_brightside_round"
         }
     ]
 }
