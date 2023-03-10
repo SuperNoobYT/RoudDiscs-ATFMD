@@ -1,7 +1,7 @@
 {
 	"parent": "minecraft:item/generated",
 	"textures": {
-		"layer0": "all_the_fan_made_discs:item/tall"
+		"layer0": "all_the_fan_made_discs:item/the_lost_soul"
 	},
 	
 	"overrides": [
